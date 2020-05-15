@@ -5,6 +5,12 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
+  siteMetadata: {
+    title: 'Reading List',
+    author: ' Mihir Patel'
+
+  },
+  plugins: [
+    'gatsby-plugin-sass'
+  ]
 }
