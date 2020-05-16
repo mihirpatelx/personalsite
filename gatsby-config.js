@@ -10,7 +10,5 @@ module.exports = {
     author: ' Mihir Patel'
 
   },
-  plugins: [
-    'gatsby-plugin-sass'
-  ]
+
 }
