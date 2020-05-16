@@ -5,9 +5,6 @@
  */
 
 module.exports = {
-
-
-
   siteMetadata: {
     title: 'Reading List',
     author: ' Mihir Patel'
