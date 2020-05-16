@@ -6,14 +6,14 @@
 
 module.exports = {
 
-  plugins: [
-    'gatsby-plugin-sass'
-  ]
+
 
   siteMetadata: {
     title: 'Reading List',
     author: ' Mihir Patel'
 
   },
-
+  plugins: [
+    'gatsby-plugin-sass'
+  ]
 }
