@@ -19,12 +19,12 @@ const contactpage = () => {
                 </div>
 
              <p> </p>
-                 <h4> The best way to reach me is on Twitter <a href="https://twitter.com/_mihirpatel" target="_blank" >@_mihirpatel</a></h4>
+                 <h4> The best way to reach me is on Twitter <a href="https://twitter.com/_mihirpatel" target="_blank" >@_mihirpatel 🐦</a></h4>
                 <p></p>
-                 <h4> You coud also <a href="mailto:mihirpatelx@gmail.com"> Email me</a> </h4>   
-                 <h4> Here's my <a href="https://github.com/mihirpatelx"> Github</a> </h4>   
+                 <h4> You coud also <a href="mailto:mihirpatelx@gmail.com"> email me ✉️ </a> </h4>   
+                 <h4> Here's my <a href="https://github.com/mihirpatelx"> Github 💻</a> </h4>   
 
-                 <h4> If you want to make my day or just love me click <a href="https://www.buymeacoffee.com/Mihir2020"> here</a> </h4>   
+                 <h4> If you want to make my day or really want to grab my attention <a href="https://www.buymeacoffee.com/Mihir2020"> click here</a> </h4>   
                 <p></p>
                 <p></p>
         </Layout>

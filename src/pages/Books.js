@@ -19,16 +19,11 @@ import b14 from "../../static/14.jpg"
 
 import read from "../../static/read.png"
 
-
-
-
-
-
 const bookPage = () => {
     return ( 
         <Layout>
             <h1>You can tell a lot about a person by their favorite books. </h1>
-            <h2>Here's what I've been reading!</h2>
+            <h2>Here's what I've been reading in 2020</h2>
 
             <div className={bookStyles.column}> 
 

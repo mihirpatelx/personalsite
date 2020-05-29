@@ -25,7 +25,7 @@ const header = () => {
                          <Link className={headerStyles.navItem} activeClassName = {headerStyles.activeNavItem}  to="/books">Books</Link>
                     </li>
                     <li>
-                         <a    className={headerStyles.navItem} href="https://reading.supply/@mihir" target="_blank" >Notes </a>
+                         <a    className={headerStyles.navItem} href="https://medium.com/@mihirpatelx" target="_blank" >Blog </a>
                         {/* <Link className={headerStyles.navItem} activeClassName = {headerStyles.activeNavItem}  to="/blog">Blog</Link> */}
                     </li>
 
